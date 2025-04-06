@@ -1,0 +1,3 @@
+Produto: banana, Quantidade: 20, Valor: 40.0
+Produto: limao, Quantidade: 20, Valor: 30.0
+Produto: laranja, Quantidade: 30, Valor: 10.0
